@@ -1,3 +1,5 @@
+package com.or.model;
+
 enum Country {
 
     ISRAEL, ITALY, SPAIN, USA, ARGENTINA, UK

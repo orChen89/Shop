@@ -1,3 +1,5 @@
+package com.or.model;
+
 public class Owner extends Person{
 
     private double netWorth;
